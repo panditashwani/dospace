@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DOSpace
 
 Client library to interact with the DigitalOcean Spaces API.
@@ -39,3 +40,6 @@ main() async {
 * https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html
 * https://docs.aws.amazon.com/general/latest/gr/sigv4-signed-request-examples.html
 * https://docs.aws.amazon.com/general/latest/gr/signature-v4-test-suite.html
+=======
+# dospace
+>>>>>>> 0a28a629b9ad5ded36d3def3c018d84e7865bf4a
